@@ -3,11 +3,11 @@ package Datatypes;
 public class simpleCustomer {
   public static void main(String[]args) 
   {
-	  String custName="Monali";
-	  String address="Ambegoan Bk";
-	  long custMobile=9527138210L;
-	  int billNo=444;
-	  float billAmt=780.56f;
+	  String custName="vidya";
+	  String address="Baramati";
+	  long custMobile=989938210L;
+	  int billNo=560;
+	  float billAmt=10909.99f;
 	  
 	  System.out.println("Customer name is : " +custName);
 	  System.out.println(address);
